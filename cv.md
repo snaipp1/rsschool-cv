@@ -15,8 +15,7 @@ Personal Information
 
 Objective
 --------------------
-
-    I would like to get a front-end development position that will allow me to use the knowledge gained during my studies at RS School.  
+I would like to get a front-end development position that will allow me to use the knowledge gained during my studies at **RS School**. 
 
 ---
 Education
