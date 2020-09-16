@@ -20,8 +20,7 @@ I would like to get a front-end development position that will allow me to use t
 ---
 
 Education
----------
-
+----------
 **Institute for Advanced Training and Retraining in Informatization and      Management Technologies of the Belarusian State University**  
   Information Systems Software Design  
   **Qualification:** Programmer  
