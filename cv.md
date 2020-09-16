@@ -14,12 +14,13 @@ Personal Information
 ---
 
 Objective
---------------------
+----------
 I would like to get a front-end development position that will allow me to use the knowledge gained during my studies at **RS School**. 
 
 ---
+
 Education
---------------------
+---------
 
 **Institute for Advanced Training and Retraining in Informatization and      Management Technologies of the Belarusian State University**  
   Information Systems Software Design  
